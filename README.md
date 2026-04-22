@@ -64,14 +64,12 @@ The signup form includes validation for:
 ## 📸 Preview
 
 <img width="1902" height="970" alt="fb-screenshot" src="https://github.com/user-attachments/assets/66341634-db43-453b-85a5-b47b5430232a" />
+
 <img width="774" height="920" alt="fb-screenshot-2" src="https://github.com/user-attachments/assets/350ff660-68f3-4a9e-9d5e-9cc25a83c541" />
 
+## 🌍 Live Demo
 
-Example:
-
-```md id="img123"
-![Facebook Clone UI](images/preview.png)
-```
+https://rinshudeveloper.github.io/facebook_loginpage_clone/
 
 ## ⚠️ Disclaimer
 
